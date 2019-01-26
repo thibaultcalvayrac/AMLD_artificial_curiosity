@@ -24,4 +24,4 @@ This repository contains the code and models for the Artificial Curiosity Visium
 
 ## How to see the notebook without running it?
 
-1. Simply go to <http://thibaultcalvayrac.github.io/amld_rl>
+1. Simply go to <http://thibaultcalvayrac.github.io/AMLD_artificial_curiosity>
