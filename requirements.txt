@@ -1,0 +1,7 @@
+https://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-linux_x86_64.whl
+gym==0.10.9
+nes-py==2.0.0
+gym-super-mario-bros==6.0.1
+jupyter
+imageio
+matplotlib
