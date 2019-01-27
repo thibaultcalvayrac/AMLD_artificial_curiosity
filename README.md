@@ -19,8 +19,8 @@ This repository contains the code and models for the Artificial Curiosity Visium
     * Windows Command Line: type `docker run -it -p 8888:8888 -v %cd%:/app visium_amld_rl`
     * Windows PowerShell / Mac OS / Linux: type `docker run -it -p 8888:8888 -v ${PWD}:/app visium_amld_rl`
 6. The container will automatically start a Jupyter notebook server
-    * Windows 10, Mac OS, Linux: go to <http://localhost:8888>
-    * Windows <10 with Docker Toolbox: go to <http://192.168.99.100:8888>
+    * Mac OS, Linux: go to <http://localhost:8888>
+    * Windows: go to <http://192.168.99.100:8888>
 
 ## How to see the notebook without running it?
 
