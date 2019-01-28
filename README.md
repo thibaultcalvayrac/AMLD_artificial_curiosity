@@ -2,6 +2,16 @@
 
 This repository contains the code and models for the Artificial Curiosity Visium workshop at AMLD 2019.
 
+## Educational Resources & Bibliography
+
+* [OpenAI Gym toolkit to build environments](https://gym.openai.com)
+* [Sutton and Barto, "Reinforcement Learning: An Introduction", MIT Press 2018'](http://incompleteideas.net/book/the-book.html)
+* David Silver, Reinforcement Learning Course, UCL 2015: [slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) and [videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
+* [Pathak et al., "Curiosity-driven Exploration by Self-supervised Prediction", 2017](https://pathak22.github.io/noreward-rl/)
+* [Burda, Edwards, Pathak et al., "Large-Scale Study of Curiosity-Driven Learning", 2018](https://pathak22.github.io/large-scale-curiosity/)
+* [Savinov, Raichuk, Marinier, Vincent et al. "Episodic Curiosity through Reachability", 2018](https://arxiv.org/abs/1810.02274)
+
 ## How to run the code on your computer?
 
 ### Build a Docker image from this repository
