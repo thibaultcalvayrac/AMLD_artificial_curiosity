@@ -12,6 +12,10 @@ This repository contains the code and models for the Artificial Curiosity Visium
 * [Burda, Edwards, Pathak et al., "Large-Scale Study of Curiosity-Driven Learning", 2018](https://pathak22.github.io/large-scale-curiosity/)
 * [Savinov, Raichuk, Marinier, Vincent et al. "Episodic Curiosity through Reachability", 2018](https://arxiv.org/abs/1810.02274)
 
+## Open the Workshop in Google Colab
+
+To run the notebook in Colab, click here -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thibaultcalvayrac/AMLD_artificial_curiosity)
+
 ## How to run the code on your computer?
 
 ### Build a Docker image from this repository
